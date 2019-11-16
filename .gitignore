@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Jokes/Jokes.Core/obj
+/Jokes/Jokes.Infrastructure/obj
+/Jokes/Jokes.Infrastructure/bin/Debug/netstandard2.0
+/Jokes/Jokes.Core/bin/Debug/netstandard2.0
+/Jokes/Jokes/obj
+/Jokes/Jokes/bin/Debug/netcoreapp2.2
+/.vs
+/Jokes/.vs/Jokes
